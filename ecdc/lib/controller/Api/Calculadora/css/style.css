@@ -1,0 +1,41 @@
+ body{
+	  /*background-image: url("https://elcomerciodecali.com.co/lib/controller/Api/Calculadora/img/gasolina3.jpg");*/
+	  background-repeat: no-repeat;
+	  background-position-x:center;
+	  background-position-y:23px;
+
+ }
+ 
+ 
+ .div-background{
+	 background: white;
+	 width: 41%;
+ }
+ 
+
+#RespCalculo .div-background{
+	background: white;
+	 width: 51%;
+}
+
+@media (max-width: 740px){
+		 body{
+		  /*background-image: url("https://elcomerciodecali.com.co/lib/controller/Api/Calculadora/img/gasolina3.jpg");*/
+		  background-repeat: no-repeat;
+		  background-position-x:center;
+		  background-position-y:23px;
+
+	 }
+	 
+	 
+	 .div-background{
+		 background: white;
+		 width: 41%;
+	 }
+	 
+
+	#RespCalculo .div-background{
+		background: white;
+		 width: 51%;
+	}
+}

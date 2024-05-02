@@ -1,0 +1,194 @@
+[07-Mar-2023 21:21:18 UTC] PHP Warning:  include(../../smarty/libs/Smarty.class.php): failed to open stream: No such file or directory in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/controller.php on line 6
+[07-Mar-2023 21:21:18 UTC] PHP Warning:  include(): Failed opening '../../smarty/libs/Smarty.class.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/controller.php on line 6
+[07-Mar-2023 21:21:18 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/db.php on line 9
+[07-Mar-2023 21:21:18 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/db.php on line 10
+[07-Mar-2023 21:21:18 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/db.php on line 18
+[07-Mar-2023 21:21:18 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/DAO.php on line 200
+[07-Mar-2023 21:21:18 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/db.php on line 18
+[07-Mar-2023 21:21:18 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/DAO.php on line 200
+[07-Mar-2023 21:21:18 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/db.php on line 18
+[07-Mar-2023 21:21:18 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/DAO.php on line 200
+[07-Mar-2023 21:21:18 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/db.php on line 18
+[07-Mar-2023 21:21:18 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/DAO.php on line 22
+[07-Mar-2023 21:36:19 UTC] PHP Warning:  include(../../smarty/libs/Smarty.class.php): failed to open stream: No such file or directory in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/controller.php on line 6
+[07-Mar-2023 21:36:19 UTC] PHP Warning:  include(): Failed opening '../../smarty/libs/Smarty.class.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/controller.php on line 6
+[07-Mar-2023 21:36:19 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'artecele_elcomerc_i4961864_wp3'@'cpanel6-co.conexcol.net' to database 'elcomerc_i4961864_wp3' in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/db.php on line 9
+[07-Mar-2023 21:36:19 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/db.php on line 10
+[07-Mar-2023 21:36:19 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/db.php on line 18
+[07-Mar-2023 21:36:19 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/DAO.php on line 200
+[07-Mar-2023 21:36:19 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/db.php on line 18
+[07-Mar-2023 21:36:19 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/DAO.php on line 200
+[07-Mar-2023 21:36:19 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/db.php on line 18
+[07-Mar-2023 21:36:19 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/DAO.php on line 200
+[07-Mar-2023 21:36:19 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/db.php on line 18
+[07-Mar-2023 21:36:19 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/DAO.php on line 22
+[07-Mar-2023 21:41:05 UTC] PHP Warning:  include(../../smarty/libs/Smarty.class.php): failed to open stream: No such file or directory in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/controller.php on line 6
+[07-Mar-2023 21:41:05 UTC] PHP Warning:  include(): Failed opening '../../smarty/libs/Smarty.class.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/controller.php on line 6
+[07-Mar-2023 21:41:05 UTC] PHP Warning:  include(../../smarty/libs/Smarty.class.php): failed to open stream: No such file or directory in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/controller.php on line 6
+[07-Mar-2023 21:41:05 UTC] PHP Warning:  include(): Failed opening '../../smarty/libs/Smarty.class.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/controller.php on line 6
+[07-Mar-2023 21:41:05 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'artecele_elcomerc_i4961864_wp3'@'cpanel6-co.conexcol.net' to database 'elcomerc_i4961864_wp3' in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/db.php on line 9
+[07-Mar-2023 21:41:05 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'artecele_elcomerc_i4961864_wp3'@'cpanel6-co.conexcol.net' to database 'elcomerc_i4961864_wp3' in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/db.php on line 9
+[07-Mar-2023 21:41:05 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/db.php on line 10
+[07-Mar-2023 21:41:05 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/db.php on line 10
+[07-Mar-2023 21:41:05 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/db.php on line 18
+[07-Mar-2023 21:41:05 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/DAO.php on line 200
+[07-Mar-2023 21:41:05 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/db.php on line 18
+[07-Mar-2023 21:41:05 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/DAO.php on line 200
+[07-Mar-2023 21:41:05 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/db.php on line 18
+[07-Mar-2023 21:41:05 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/db.php on line 18
+[07-Mar-2023 21:41:05 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/DAO.php on line 200
+[07-Mar-2023 21:41:05 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/DAO.php on line 200
+[07-Mar-2023 21:41:05 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/db.php on line 18
+[07-Mar-2023 21:41:05 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/DAO.php on line 200
+[07-Mar-2023 21:41:05 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/db.php on line 18
+[07-Mar-2023 21:41:05 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/db.php on line 18
+[07-Mar-2023 21:41:05 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/DAO.php on line 200
+[07-Mar-2023 21:41:05 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/DAO.php on line 22
+[07-Mar-2023 21:41:05 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/db.php on line 18
+[07-Mar-2023 21:41:05 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/DAO.php on line 22
+[07-Mar-2023 21:41:51 UTC] PHP Warning:  include(../../smarty/libs/Smarty.class.php): failed to open stream: No such file or directory in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/controller.php on line 6
+[07-Mar-2023 21:41:51 UTC] PHP Warning:  include(): Failed opening '../../smarty/libs/Smarty.class.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/controller.php on line 6
+[07-Mar-2023 21:41:51 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'artecele_elcomerc_i4961864_wp3'@'cpanel6-co.conexcol.net' to database 'elcomerc_i4961864_wp3' in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/db.php on line 9
+[07-Mar-2023 21:41:51 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/db.php on line 10
+[07-Mar-2023 21:41:51 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/db.php on line 18
+[07-Mar-2023 21:41:51 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/DAO.php on line 200
+[07-Mar-2023 21:41:51 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/db.php on line 18
+[07-Mar-2023 21:41:51 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/DAO.php on line 200
+[07-Mar-2023 21:41:51 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/db.php on line 18
+[07-Mar-2023 21:41:51 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/DAO.php on line 200
+[07-Mar-2023 21:41:51 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/db.php on line 18
+[07-Mar-2023 21:41:51 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/DAO.php on line 22
+[07-Mar-2023 21:45:40 UTC] PHP Warning:  include(../../smarty/libs/Smarty.class.php): failed to open stream: No such file or directory in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/controller.php on line 6
+[07-Mar-2023 21:45:40 UTC] PHP Warning:  include(../../smarty/libs/Smarty.class.php): failed to open stream: No such file or directory in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/controller.php on line 6
+[07-Mar-2023 21:45:40 UTC] PHP Warning:  include(): Failed opening '../../smarty/libs/Smarty.class.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/controller.php on line 6
+[07-Mar-2023 21:45:40 UTC] PHP Warning:  include(): Failed opening '../../smarty/libs/Smarty.class.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/controller.php on line 6
+[07-Mar-2023 21:45:40 UTC] PHP Warning:  mysqli::__construct(): (HY000/1102): Incorrect database name 'artecele_elcomerc_i4961864_wp3	' in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/db.php on line 9
+[07-Mar-2023 21:45:40 UTC] PHP Warning:  mysqli::__construct(): (HY000/1102): Incorrect database name 'artecele_elcomerc_i4961864_wp3	' in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/db.php on line 9
+[07-Mar-2023 21:45:40 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/db.php on line 10
+[07-Mar-2023 21:45:40 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/db.php on line 18
+[07-Mar-2023 21:45:40 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/DAO.php on line 200
+[07-Mar-2023 21:45:40 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/db.php on line 18
+[07-Mar-2023 21:45:40 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/DAO.php on line 200
+[07-Mar-2023 21:45:40 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/db.php on line 18
+[07-Mar-2023 21:45:40 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/DAO.php on line 200
+[07-Mar-2023 21:45:40 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/db.php on line 10
+[07-Mar-2023 21:45:40 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/db.php on line 18
+[07-Mar-2023 21:45:40 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/DAO.php on line 22
+[07-Mar-2023 21:45:40 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/db.php on line 18
+[07-Mar-2023 21:45:40 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/DAO.php on line 200
+[07-Mar-2023 21:45:40 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/db.php on line 18
+[07-Mar-2023 21:45:40 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/DAO.php on line 200
+[07-Mar-2023 21:45:40 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/db.php on line 18
+[07-Mar-2023 21:45:40 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/DAO.php on line 200
+[07-Mar-2023 21:45:40 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/db.php on line 18
+[07-Mar-2023 21:45:40 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/DAO.php on line 22
+[07-Mar-2023 21:46:39 UTC] PHP Warning:  include(../../smarty/libs/Smarty.class.php): failed to open stream: No such file or directory in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/controller.php on line 6
+[07-Mar-2023 21:46:39 UTC] PHP Warning:  include(): Failed opening '../../smarty/libs/Smarty.class.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/controller.php on line 6
+[07-Mar-2023 21:46:39 UTC] PHP Warning:  mysqli::__construct(): (HY000/1102): Incorrect database name 'artecele_elcomerc_i4961864_wp3	' in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/db.php on line 9
+[07-Mar-2023 21:46:39 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/db.php on line 10
+[07-Mar-2023 21:46:39 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/db.php on line 18
+[07-Mar-2023 21:46:39 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/DAO.php on line 200
+[07-Mar-2023 21:46:39 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/db.php on line 18
+[07-Mar-2023 21:46:39 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/DAO.php on line 200
+[07-Mar-2023 21:46:39 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/db.php on line 18
+[07-Mar-2023 21:46:39 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/DAO.php on line 200
+[07-Mar-2023 21:46:39 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/db.php on line 18
+[07-Mar-2023 21:46:39 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/DAO.php on line 22
+[07-Mar-2023 21:47:59 UTC] PHP Warning:  include(../../smarty/libs/Smarty.class.php): failed to open stream: No such file or directory in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/controller.php on line 6
+[07-Mar-2023 21:47:59 UTC] PHP Warning:  include(): Failed opening '../../smarty/libs/Smarty.class.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/controller.php on line 6
+[07-Mar-2023 21:47:59 UTC] PHP Warning:  mysqli::__construct(): (HY000/1102): Incorrect database name 'artecele_elcomerc_i4961864_wp3	' in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/db.php on line 9
+[07-Mar-2023 21:47:59 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/db.php on line 10
+[07-Mar-2023 21:47:59 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/db.php on line 18
+[07-Mar-2023 21:47:59 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/DAO.php on line 200
+[07-Mar-2023 21:47:59 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/db.php on line 18
+[07-Mar-2023 21:47:59 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/DAO.php on line 200
+[07-Mar-2023 21:47:59 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/db.php on line 18
+[07-Mar-2023 21:47:59 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/DAO.php on line 200
+[07-Mar-2023 21:47:59 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/db.php on line 18
+[07-Mar-2023 21:47:59 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/DAO.php on line 22
+[07-Mar-2023 21:49:26 UTC] PHP Warning:  include(../../smarty/libs/Smarty.class.php): failed to open stream: No such file or directory in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/controller.php on line 6
+[07-Mar-2023 21:49:26 UTC] PHP Warning:  include(): Failed opening '../../smarty/libs/Smarty.class.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/controller.php on line 6
+[07-Mar-2023 21:49:26 UTC] PHP Warning:  mysqli::__construct(): (HY000/1102): Incorrect database name 'artecele_elcomerc_i4961864_wp3	' in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/db.php on line 9
+[07-Mar-2023 21:49:26 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/db.php on line 10
+[07-Mar-2023 21:49:26 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/db.php on line 18
+[07-Mar-2023 21:49:26 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/DAO.php on line 200
+[07-Mar-2023 21:49:26 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/db.php on line 18
+[07-Mar-2023 21:49:26 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/DAO.php on line 200
+[07-Mar-2023 21:49:26 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/db.php on line 18
+[07-Mar-2023 21:49:26 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/DAO.php on line 200
+[07-Mar-2023 21:49:26 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/db.php on line 18
+[07-Mar-2023 21:49:26 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/DAO.php on line 22
+[07-Mar-2023 21:49:38 UTC] PHP Warning:  include(../../smarty/libs/Smarty.class.php): failed to open stream: No such file or directory in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/controller.php on line 6
+[07-Mar-2023 21:49:38 UTC] PHP Warning:  include(): Failed opening '../../smarty/libs/Smarty.class.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/controller.php on line 6
+[07-Mar-2023 21:49:38 UTC] PHP Warning:  mysqli::__construct(): (HY000/1102): Incorrect database name 'artecele_elcomerc_i4961864_wp3	' in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/db.php on line 9
+[07-Mar-2023 21:49:38 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/db.php on line 10
+[07-Mar-2023 21:49:38 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/db.php on line 18
+[07-Mar-2023 21:49:38 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/DAO.php on line 200
+[07-Mar-2023 21:49:38 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/db.php on line 18
+[07-Mar-2023 21:49:38 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/DAO.php on line 200
+[07-Mar-2023 21:49:38 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/db.php on line 18
+[07-Mar-2023 21:49:38 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/DAO.php on line 200
+[07-Mar-2023 21:49:38 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/db.php on line 18
+[07-Mar-2023 21:49:38 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/DAO.php on line 22
+[07-Mar-2023 21:49:59 UTC] PHP Warning:  include(../../smarty/libs/Smarty.class.php): failed to open stream: No such file or directory in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/controller.php on line 6
+[07-Mar-2023 21:49:59 UTC] PHP Warning:  include(): Failed opening '../../smarty/libs/Smarty.class.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/controller.php on line 6
+[07-Mar-2023 21:49:59 UTC] PHP Warning:  mysqli::__construct(): (HY000/1102): Incorrect database name 'artecele_elcomerc_i4961864_wp3	' in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/db.php on line 9
+[07-Mar-2023 21:49:59 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/db.php on line 10
+[07-Mar-2023 21:49:59 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/db.php on line 18
+[07-Mar-2023 21:49:59 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/DAO.php on line 200
+[07-Mar-2023 21:49:59 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/db.php on line 18
+[07-Mar-2023 21:49:59 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/DAO.php on line 200
+[07-Mar-2023 21:49:59 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/db.php on line 18
+[07-Mar-2023 21:49:59 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/DAO.php on line 200
+[07-Mar-2023 21:49:59 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/db.php on line 18
+[07-Mar-2023 21:49:59 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/DAO.php on line 22
+[07-Mar-2023 21:49:59 UTC] PHP Warning:  include(../../smarty/libs/Smarty.class.php): failed to open stream: No such file or directory in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/controller.php on line 6
+[07-Mar-2023 21:49:59 UTC] PHP Warning:  include(): Failed opening '../../smarty/libs/Smarty.class.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/controller.php on line 6
+[07-Mar-2023 21:49:59 UTC] PHP Warning:  mysqli::__construct(): (HY000/1102): Incorrect database name 'artecele_elcomerc_i4961864_wp3	' in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/db.php on line 9
+[07-Mar-2023 21:49:59 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/db.php on line 10
+[07-Mar-2023 21:49:59 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/db.php on line 18
+[07-Mar-2023 21:49:59 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/DAO.php on line 200
+[07-Mar-2023 21:49:59 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/db.php on line 18
+[07-Mar-2023 21:49:59 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/DAO.php on line 200
+[07-Mar-2023 21:49:59 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/db.php on line 18
+[07-Mar-2023 21:49:59 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/DAO.php on line 200
+[07-Mar-2023 21:49:59 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/db.php on line 18
+[07-Mar-2023 21:49:59 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/DAO.php on line 22
+[07-Mar-2023 21:54:23 UTC] PHP Warning:  include(../../smarty/libs/Smarty.class.php): failed to open stream: No such file or directory in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/controller.php on line 6
+[07-Mar-2023 21:54:23 UTC] PHP Warning:  include(): Failed opening '../../smarty/libs/Smarty.class.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/controller.php on line 6
+[07-Mar-2023 21:54:23 UTC] PHP Warning:  mysqli::__construct(): (HY000/1102): Incorrect database name 'artecele_elcomerc_i4961864_wp3	' in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/db.php on line 9
+[07-Mar-2023 21:54:23 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/db.php on line 10
+[07-Mar-2023 21:54:23 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/db.php on line 18
+[07-Mar-2023 21:54:23 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/DAO.php on line 200
+[07-Mar-2023 21:54:23 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/db.php on line 18
+[07-Mar-2023 21:54:23 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/DAO.php on line 200
+[07-Mar-2023 21:54:23 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/db.php on line 18
+[07-Mar-2023 21:54:23 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/DAO.php on line 200
+[07-Mar-2023 21:54:23 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/db.php on line 18
+[07-Mar-2023 21:54:23 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/DAO.php on line 22
+[07-Mar-2023 21:54:37 UTC] PHP Warning:  include(../../smarty/libs/Smarty.class.php): failed to open stream: No such file or directory in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/controller.php on line 6
+[07-Mar-2023 21:54:37 UTC] PHP Warning:  include(): Failed opening '../../smarty/libs/Smarty.class.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/controller.php on line 6
+[07-Mar-2023 21:54:37 UTC] PHP Warning:  mysqli::__construct(): (HY000/1102): Incorrect database name 'artecele_elcomerc_i4961864_wp3	' in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/db.php on line 9
+[07-Mar-2023 21:54:37 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/db.php on line 10
+[07-Mar-2023 21:54:37 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/db.php on line 18
+[07-Mar-2023 21:54:37 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/DAO.php on line 200
+[07-Mar-2023 21:54:37 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/db.php on line 18
+[07-Mar-2023 21:54:37 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/DAO.php on line 200
+[07-Mar-2023 21:54:37 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/db.php on line 18
+[07-Mar-2023 21:54:37 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/DAO.php on line 200
+[07-Mar-2023 21:54:37 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/db.php on line 18
+[07-Mar-2023 21:54:37 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/DAO.php on line 22
+[07-Mar-2023 21:54:37 UTC] PHP Warning:  include(../../smarty/libs/Smarty.class.php): failed to open stream: No such file or directory in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/controller.php on line 6
+[07-Mar-2023 21:54:37 UTC] PHP Warning:  include(): Failed opening '../../smarty/libs/Smarty.class.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/controller.php on line 6
+[07-Mar-2023 21:54:37 UTC] PHP Warning:  mysqli::__construct(): (HY000/1102): Incorrect database name 'artecele_elcomerc_i4961864_wp3	' in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/db.php on line 9
+[07-Mar-2023 21:54:37 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/db.php on line 10
+[07-Mar-2023 21:54:37 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/db.php on line 18
+[07-Mar-2023 21:54:37 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/DAO.php on line 200
+[07-Mar-2023 21:54:37 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/db.php on line 18
+[07-Mar-2023 21:54:37 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/DAO.php on line 200
+[07-Mar-2023 21:54:37 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/db.php on line 18
+[07-Mar-2023 21:54:37 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/DAO.php on line 200
+[07-Mar-2023 21:54:37 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/db.php on line 18
+[07-Mar-2023 21:54:37 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/DAO.php on line 22
+[07-Mar-2023 21:58:49 UTC] PHP Warning:  include(../../smarty/libs/Smarty.class.php): failed to open stream: No such file or directory in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/controller.php on line 6
+[07-Mar-2023 21:58:49 UTC] PHP Warning:  include(): Failed opening '../../smarty/libs/Smarty.class.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/artecele/public_html/ElComercioDeCaliWeb/lib/controller/controller.php on line 6

@@ -1,0 +1,1284 @@
+@media (max-width: 576px) {
+	
+#mobile-nav-toggle {
+	visibility: hidden;
+    display: inline;
+	left: 43%;
+}
+  
+#header #logo img {
+    width: auto;
+    height: auto;
+}
+
+#header {
+    padding: 20px 0;
+    height: 116px;
+    transition: all 0.5s;
+    z-index: 997;
+    background: #fff;
+    box-shadow: 0px 6px 9px 0px rgba(0, 0, 0, 0.06);
+}
+
+#about{
+    margin-top:-15%;
+}
+
+#about .content h2 {
+    color: #0722e0;
+    font-weight: 700;
+    font-size: 20px;
+    font-family: "Raleway", sans-serif;
+}
+  
+  #contact #google-map {
+    margin-top: 20px;
+  }
+  
+  .filtros-comercios {
+    border: 4px solid #0722e0;
+    border-radius: 12px;
+    margin-top: 20px;
+    box-sizing: border-box;
+    width: 99%;
+    padding: 15px;
+    flex-wrap: wrap;
+    display: flex;
+}
+
+.text-filtro {
+    width: 100%;
+	height: 35px;
+    display: inline-block;
+    padding-top: 0px;
+	margin-right: 15px;
+	margin-top: 4%;
+
+}
+
+.select-filtro {
+    width: 100%;
+	height: 35px;
+    display: inline-block;
+    padding-top: 0px;
+
+}
+
+#alertify{
+		width: 68%;
+		margin-left: 2%;
+		top: 31%;
+	}
+
+.popup {
+	
+	background: #ffffff;
+	box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.3);
+	border-radius: 3px;
+	padding: 20px;
+	width: 80%;
+	height: 95%; 
+	overflow-y: scroll;
+	margin-left: -10%;
+}
+
+
+.popup h2{
+	
+	font-size: 20px;
+    color: #0722e0;
+    text-transform: uppercase;
+    font-weight: 700;
+    position: relative;
+    padding-bottom: 0px;
+	/*opacity: 0;*/
+	text-align: center;
+	overflow-y: scroll;
+}
+
+
+.resultados-filtro{
+	margin-top: -18%;
+	/* display: flex; */
+    align-items: center;
+}
+
+
+	.nombre-comercio {
+    font-size: 16px;
+    color: #0722e0;
+    text-transform: uppercase;
+    font-weight: 700;
+    position: relative;
+    padding-bottom: 0px;
+	width: 97%;
+}
+
+
+.item{
+	
+
+	
+    border: 4px solid #0722e0;
+    border-radius: 12px;
+    box-sizing: border-box;
+    padding: 20px;
+	width: 102%;
+    height: auto;
+    margin-left: 1%;
+	margin-bottom: 19%;
+	display: block;
+}
+
+.item-comercio{
+	width: 100%;
+	margin-left: 0%;
+}
+
+.shop-description {
+    font-size: 15px;
+    color: #0722e0;
+    font-weight: 700;
+	margin-top: 3%;
+}
+
+
+.img-item{
+	width: 200px;
+    height: 200px;
+}
+
+.item-descripcion {
+	width: 100%;
+    height: auto;
+    align-items: center;
+	margin-left: 0%;
+    /* margin-top: -36%; */
+	
+}
+
+
+#video-item{
+	width: 100%;
+    height: 20%;
+	margin-top: 0%;
+    margin-left: 4%;
+	display: block;  
+	margin-bottom: 2%;
+}
+
+
+video{
+	width: 100%;
+    height: auto;     
+}
+
+
+.categorias-items {
+    display: block;
+    width: 100%;
+    margin-left: 5%;
+	margin-top:-10%;
+	margin-bottom: 24%
+}
+
+.marcas-items{
+	display: block;
+    width: 100%;
+    margin-left: 5%;
+	margin-top: -22%;
+}
+
+
+.popup h2{
+	visibility: hidden;
+}
+
+
+
+
+.popup .btn-cerrar-popup {
+	font-size: 16px;
+	line-height: 16px;
+	display: block;
+	text-align: right;
+	color: #BBBBBB;
+	transition: .3s ease all;
+	
+}
+
+.popup .btn-cerrar-popup:hover {
+	color: #000;
+	
+}
+
+
+
+
+.label-filtro {
+	width: 100%;
+    margin-right: 10%;
+    margin-top: 5%;
+}
+
+.select-filtro#filtro-marca {
+    width: 100%;
+	height: 35px;
+    display: inline-block;
+    padding-top: 0px;
+}
+
+.select-filtro#filtro-centros-comerciales {
+    width: 100%;
+	height: 35px;
+    display: inline-block;
+    padding-top: 0px;
+}
+
+.select-filtro#filtro-precio{
+    width: 100%;
+    height: 35px;
+    display: inline-block;
+    padding-top: 0px;
+}
+
+ .label-marca{
+	margin-left: 0%;
+}
+
+#form-filters .label-centroC{
+	margin-left: 0%;
+}
+
+#form-filters .label-precio{
+	margin-left: 29%;
+}
+
+#contact .contact-info {
+    margin-bottom: 20px;
+    text-align: center;
+    margin-right: -5%;
+}
+
+}
+
+
+@media (max-width : 640px) {
+	
+#mobile-nav-toggle {
+	visibility: hidden;
+    display: inline;
+	left: 43%;
+}
+  
+#header #logo img {
+    width: auto;
+    height: auto;
+}
+
+#header {
+    padding: 20px 0;
+    height: 116px;
+    transition: all 0.5s;
+    z-index: 997;
+    background: #fff;
+    box-shadow: 0px 6px 9px 0px rgba(0, 0, 0, 0.06);
+}
+
+#about{
+    margin-top:-15%;
+}
+
+#about .content h2 {
+    color: #0722e0;
+    font-weight: 700;
+    font-size: 20px;
+    font-family: "Raleway", sans-serif;
+}
+  
+  #contact #google-map {
+    margin-top: 20px;
+  }
+  
+  .filtros-comercios {
+    border: 4px solid #0722e0;
+    border-radius: 12px;
+    margin-top: 20px;
+    box-sizing: border-box;
+    width: 99%;
+    padding: 15px;
+    flex-wrap: wrap;
+    display: flex;
+}
+
+.text-filtro {
+    width: 100%;
+	height: 35px;
+    display: inline-block;
+    padding-top: 0px;
+	margin-right: 15px;
+	margin-top: 4%;
+
+}
+
+.select-filtro {
+    width: 100%;
+	height: 35px;
+    display: inline-block;
+    padding-top: 0px;
+
+}
+
+/* .popup { */
+	
+	/* background: #f8f8f8; */
+	/* box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.3); */
+	/* border-radius: 3px; */
+	/* padding: 20px; */
+	/* height: 500px; */
+	/* width: 343px; */
+	/* overflow-y: scroll; */
+	/* margin-left: -185px; */
+/* } */
+
+/* .popup .btn-cerrar-popup { */
+	/* font-size: 16px; */
+	/* line-height: 16px; */
+	/* display: block; */
+	/* text-align: right; */
+	/* color: #BBBBBB; */
+	/* transition: .3s ease all; */
+	
+/* } */
+
+/* .popup .btn-cerrar-popup:hover { */
+	/* color: #000; */
+	
+/* } */
+
+/* .popup h2{ */
+	
+	/* font-size: 20px; */
+    /* color: #0722e0; */
+    /* text-transform: uppercase; */
+    /* font-weight: 700; */
+    /* position: relative; */
+    /* padding-bottom: 0px; */
+	/* opacity: 0; */
+/* } */
+
+
+.label-filtro#label-marca {
+    margin-left: 0%;
+}
+
+.label-filtro {
+	width: 100%;
+    margin-right: 10%;
+    margin-top: 5%;
+}
+
+.select-filtro#filtro-marca {
+    width: 100%;
+	height: 35px;
+    display: inline-block;
+    padding-top: 0px;
+}
+
+.select-filtro#filtro-centros-comerciales {
+    width: 100%;
+	height: 35px;
+    display: inline-block;
+    padding-top: 0px;
+}
+
+.select-filtro#filtro-precio{
+    width: 100%;
+    height: 35px;
+    display: inline-block;
+    padding-top: 0px;
+}
+
+}
+
+
+@media (max-width: 320px) {
+
+#mobile-nav-toggle {
+	visibility: hidden;
+    display: inline;
+	left: 43%;
+}
+  
+#header #logo img {
+    width: auto;
+    height: auto;
+}
+
+#header {
+    padding: 20px 0;
+    height: 116px;
+    transition: all 0.5s;
+    z-index: 997;
+    background: #fff;
+    box-shadow: 0px 6px 9px 0px rgba(0, 0, 0, 0.06);
+}
+
+#about{
+    margin-top:-15%;
+}
+
+#about .content h2 {
+    color: #0722e0;
+    font-weight: 700;
+    font-size: 20px;
+    font-family: "Raleway", sans-serif;
+}
+  
+  #contact #google-map {
+    margin-top: 20px;
+  }
+  
+  .filtros-comercios {
+    border: 4px solid #0722e0;
+    border-radius: 12px;
+    margin-top: 20px;
+    box-sizing: border-box;
+    width: 99%;
+    padding: 15px;
+    flex-wrap: wrap;
+    display: flex;
+}
+
+.text-filtro {
+    width: 100%;
+	height: 35px;
+    display: inline-block;
+    padding-top: 0px;
+	margin-right: 15px;
+	margin-top: 4%;
+
+}
+
+.select-filtro {
+    width: 100%;
+	height: 35px;
+    display: inline-block;
+    padding-top: 0px;
+
+}
+
+/* .popup { */
+	
+	/* background: #f8f8f8; */
+	/* box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.3); */
+	/* border-radius: 3px; */
+	/* padding: 20px; */
+	/* height: 500px; */
+	/* width: 343px; */
+	/* overflow-y: scroll; */
+	/* margin-left: -185px; */
+/* } */
+
+/* .popup .btn-cerrar-popup { */
+	/* font-size: 16px; */
+	/* line-height: 16px; */
+	/* display: block; */
+	/* text-align: right; */
+	/* color: #BBBBBB; */
+	/* transition: .3s ease all; */
+	
+/* } */
+
+/* .popup .btn-cerrar-popup:hover { */
+	/* color: #000; */
+	
+/* } */
+
+/* .popup h2{ */
+	
+	/* font-size: 20px; */
+    /* color: #0722e0; */
+    /* text-transform: uppercase; */
+    /* font-weight: 700; */
+    /* position: relative; */
+    /* padding-bottom: 0px; */
+	/* opacity: 0; */
+/* } */
+
+
+.label-filtro#label-marca {
+    margin-left: 0%;
+}
+
+.label-filtro {
+	width: 100%;
+    margin-right: 10%;
+    margin-top: 5%;
+}
+
+.select-filtro#filtro-marca {
+    width: 100%;
+	height: 35px;
+    display: inline-block;
+    padding-top: 0px;
+}
+
+.select-filtro#filtro-centros-comerciales {
+    width: 100%;
+	height: 35px;
+    display: inline-block;
+    padding-top: 0px;
+}
+
+.select-filtro#filtro-precio{
+    width: 100%;
+    height: 35px;
+    display: inline-block;
+    padding-top: 0px;
+}
+
+}
+
+
+@media (max-width: 420px) {
+	
+#mobile-nav-toggle {
+	visibility: hidden;
+    display: inline;
+	left: 43%;
+}
+  
+#header #logo img {
+    width: auto;
+    height: auto;
+}
+
+#header {
+    padding: 20px 0;
+    height: 116px;
+    transition: all 0.5s;
+    z-index: 997;
+    background: #fff;
+    box-shadow: 0px 6px 9px 0px rgba(0, 0, 0, 0.06);
+}
+
+#about{
+    margin-top:-15%;
+}
+
+#about .content h2 {
+    color: #0722e0;
+    font-weight: 700;
+    font-size: 20px;
+    font-family: "Raleway", sans-serif;
+}
+  
+  #contact #google-map {
+    margin-top: 20px;
+  }
+  
+  .filtros-comercios {
+    border: 4px solid #0722e0;
+    border-radius: 12px;
+    margin-top: 20px;
+    box-sizing: border-box;
+    width: 99%;
+    padding: 15px;
+    flex-wrap: wrap;
+    display: flex;
+}
+
+.text-filtro {
+    width: 100%;
+	height: 35px;
+    display: inline-block;
+    padding-top: 0px;
+	margin-right: 15px;
+	margin-top: 4%;
+
+}
+
+.select-filtro {
+    width: 100%;
+	height: 35px;
+    display: inline-block;
+    padding-top: 0px;
+
+}
+
+/* .popup { */
+	
+	/* background: #f8f8f8; */
+	/* box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.3); */
+	/* border-radius: 3px; */
+	/* padding: 20px; */
+	/* height: 500px; */
+	/* width: 343px; */
+	/* overflow-y: scroll; */
+	/* margin-left: -185px; */
+/* } */
+
+/* .popup .btn-cerrar-popup { */
+	/* font-size: 16px; */
+	/* line-height: 16px; */
+	/* display: block; */
+	/* text-align: right; */
+	/* color: #BBBBBB; */
+	/* transition: .3s ease all; */
+	
+/* } */
+
+/* .popup .btn-cerrar-popup:hover { */
+	/* color: #000; */
+	
+/* } */
+
+/* .popup h2{ */
+	
+	/* font-size: 20px; */
+    /* color: #0722e0; */
+    /* text-transform: uppercase; */
+    /* font-weight: 700; */
+    /* position: relative; */
+    /* padding-bottom: 0px; */
+	/* opacity: 0; */
+/* } */
+
+
+.label-filtro#label-marca {
+    margin-left: 0%;
+}
+
+.label-filtro {
+	width: 100%;
+    margin-right: 10%;
+    margin-top: 5%;
+}
+
+.select-filtro#filtro-marca {
+    width: 100%;
+	height: 35px;
+    display: inline-block;
+    padding-top: 0px;
+}
+
+.select-filtro#filtro-centros-comerciales {
+    width: 100%;
+	height: 35px;
+    display: inline-block;
+    padding-top: 0px;
+}
+
+.select-filtro#filtro-precio{
+    width: 100%;
+    height: 35px;
+    display: inline-block;
+    padding-top: 0px;
+}
+	
+}
+
+
+@media (max-width: 790px) {
+	
+		
+#mobile-nav-toggle {
+	visibility: hidden;
+    display: inline;
+	left: 43%;
+}
+  
+#header #logo img {
+    width: auto;
+    height: auto;
+}
+
+#header {
+    padding: 20px 0;
+    height: 116px;
+    transition: all 0.5s;
+    z-index: 997;
+    background: #fff;
+    box-shadow: 0px 6px 9px 0px rgba(0, 0, 0, 0.06);
+}
+
+#about{
+    margin-top:-15%;
+}
+
+#about .content h2 {
+    color: #0722e0;
+    font-weight: 700;
+    font-size: 20px;
+    font-family: "Raleway", sans-serif;
+}
+  
+  #contact #google-map {
+    margin-top: 20px;
+  }
+  
+  .filtros-comercios {
+    border: 4px solid #0722e0;
+    border-radius: 12px;
+    margin-top: 20px;
+    box-sizing: border-box;
+    width: 99%;
+    padding: 15px;
+    flex-wrap: wrap;
+    display: flex;
+}
+
+.text-filtro {
+    width: 100%;
+	height: 35px;
+    display: inline-block;
+    padding-top: 0px;
+	margin-right: 15px;
+	margin-top: 4%;
+
+}
+
+.select-filtro {
+    width: 100%;
+	height: 35px;
+    display: inline-block;
+    padding-top: 0px;
+
+}
+
+/* .popup { */
+	
+	/* background: #f8f8f8; */
+	/* box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.3); */
+	/* border-radius: 3px; */
+	/* padding: 20px; */
+	/* height: 500px; */
+	/* width: 343px; */
+	/* overflow-y: scroll; */
+	/* margin-left: -185px; */
+/* } */
+
+/* .popup .btn-cerrar-popup { */
+	/* font-size: 16px; */
+	/* line-height: 16px; */
+	/* display: block; */
+	/* text-align: right; */
+	/* color: #BBBBBB; */
+	/* transition: .3s ease all; */
+	
+/* } */
+
+/* .popup .btn-cerrar-popup:hover { */
+	/* color: #000; */
+	
+/* } */
+
+/* .popup h2{ */
+	
+	/* font-size: 20px; */
+    /* color: #0722e0; */
+    /* text-transform: uppercase; */
+    /* font-weight: 700; */
+    /* position: relative; */
+    /* padding-bottom: 0px; */
+	/* opacity: 0; */
+/* } */
+
+
+.label-filtro#label-marca {
+    margin-left: 0%;
+}
+
+.label-filtro {
+	width: 100%;
+    margin-right: 10%;
+    margin-top: 5%;
+}
+
+.select-filtro#filtro-marca {
+    width: 100%;
+	height: 35px;
+    display: inline-block;
+    padding-top: 0px;
+}
+
+.select-filtro#filtro-centros-comerciales {
+    width: 100%;
+	height: 35px;
+    display: inline-block;
+    padding-top: 0px;
+}
+
+.select-filtro#filtro-precio{
+    width: 100%;
+    height: 35px;
+    display: inline-block;
+    padding-top: 0px;
+}
+	
+}
+
+
+@media (max-width: 1025px) {
+	
+		
+#mobile-nav-toggle {
+	visibility: hidden;
+    display: inline;
+	left: 43%;
+}
+  
+#header #logo img {
+    width: auto;
+    height: auto;
+}
+
+#header {
+    padding: 20px 0;
+    height: 116px;
+    transition: all 0.5s;
+    z-index: 997;
+    background: #fff;
+    box-shadow: 0px 6px 9px 0px rgba(0, 0, 0, 0.06);
+}
+
+#about{
+    margin-top: -6%;
+}
+
+#about .content h2 {
+    color: #0722e0;
+    font-weight: 700;
+    font-size: 20px;
+    font-family: "Raleway", sans-serif;
+}
+  
+  #contact #google-map {
+    margin-top: 20px;
+  }
+  
+  .filtros-comercios {
+    border: 4px solid #0722e0;
+    border-radius: 12px;
+    margin-top: 20px;
+    box-sizing: border-box;
+    width: 99%;
+    padding: 15px;
+    flex-wrap: wrap;
+    display: flex;
+}
+
+.text-filtro {
+    width: 100%;
+	height: 35px;
+    display: inline-block;
+    padding-top: 0px;
+	margin-right: 15px;
+	margin-top: 4%;
+
+}
+
+.select-filtro {
+    width: 100%;
+	height: 35px;
+    display: inline-block;
+    padding-top: 0px;
+
+}
+
+/* .popup { */
+	
+	/* background: #f8f8f8; */
+	/* box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.3); */
+	/* border-radius: 3px; */
+	/* padding: 20px; */
+	/* height: 500px; */
+	/* width: 343px; */
+	/* overflow-y: scroll; */
+	/* margin-left: -185px; */
+/* } */
+
+/* .popup .btn-cerrar-popup { */
+	/* font-size: 16px; */
+	/* line-height: 16px; */
+	/* display: block; */
+	/* text-align: right; */
+	/* color: #BBBBBB; */
+	/* transition: .3s ease all; */
+	
+/* } */
+
+/* .popup .btn-cerrar-popup:hover { */
+	/* color: #000; */
+	
+/* } */
+
+/* .popup h2{ */
+	
+	/* font-size: 20px; */
+    /* color: #0722e0; */
+    /* text-transform: uppercase; */
+    /* font-weight: 700; */
+    /* position: relative; */
+    /* padding-bottom: 0px; */
+	/* opacity: 0; */
+/* } */
+
+
+.label-filtro#label-marca {
+    margin-left: 0%;
+}
+
+.label-filtro {
+	width: 100%;
+    margin-right: 10%;
+    margin-top: 5%;
+}
+
+.select-filtro#filtro-marca {
+    width: 100%;
+	height: 35px;
+    display: inline-block;
+    padding-top: 0px;
+}
+
+.select-filtro#filtro-centros-comerciales {
+    width: 100%;
+	height: 35px;
+    display: inline-block;
+    padding-top: 0px;
+}
+
+.select-filtro#filtro-precio{
+    width: 100%;
+    height: 35px;
+    display: inline-block;
+    padding-top: 0px;
+}
+	
+}
+
+
+
+@media (max-width: 767px) {
+  #intro .intro-content h2 {
+    font-size: 34px;
+  }
+
+  #services .box .box {
+    margin-bottom: 20px;
+  }
+
+  #services .box .icon {
+    float: none;
+    text-align: center;
+    padding-bottom: 15px;
+  }
+
+  #services .box h4,
+  #services .box p {
+    margin-left: 0;
+    text-align: center;
+  }
+
+  #testimonials .testimonial-item {
+    margin: 30px 10px;
+  }
+  
+  /* .filtros-comercios { */
+    /* border: 4px solid #0722e0; */
+    /* border-radius: 12px; */
+    /* margin-top: 20px; */
+    /* box-sizing: border-box; */
+    /* width: 99%; */
+    /* padding: 15px; */
+    /* flex-wrap: wrap; */
+    /* display: flex; */
+/* } */
+
+/* .text-filtro { */
+    /* width: 85%; */
+	/* height: 35px; */
+    /* display: inline-block; */
+    /* padding-top: 0px; */
+	/* margin-right: 15px; */
+
+/* } */
+
+/* .select-filtro { */
+    /* width: 85%; */
+	/* height: 35px; */
+    /* display: inline-block; */
+    /* padding-top: 0px; */
+
+/* } */
+
+/* .popup { */
+	
+	/* background: #f8f8f8; */
+	/* box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.3); */
+	/* border-radius: 3px; */
+	/* padding: 20px; */
+	/* height: 500px; */
+	/* width: 320px; */
+	/* overflow-y: scroll; */
+	/* margin-left: -160px; */
+/* } */
+
+/* .popup .btn-cerrar-popup { */
+	/* font-size: 16px; */
+	/* line-height: 16px; */
+	/* display: block; */
+	/* text-align: right; */
+	/* color: #BBBBBB; */
+	/* transition: .3s ease all; */
+	
+/* } */
+
+/* .popup .btn-cerrar-popup:hover { */
+	/* color: #000; */
+	
+/* } */
+
+/* .popup h2{ */
+	
+	/* font-size: 20px; */
+    /* color: #0722e0; */
+    /* text-transform: uppercase; */
+    /* font-weight: 700; */
+    /* position: relative; */
+    /* padding-bottom: 0px; */
+/* } */
+
+}
+
+@media (max-width: 768px) {
+  .back-to-top {
+    bottom: 15px;
+  }
+
+  #header {
+    padding: 20px 0;
+    height: 116px;
+  }
+
+  #header #logo h1 {
+    font-size: 34px;
+  }
+
+  #header #logo img {
+    max-height: 74px;
+  }
+
+  #nav-menu-container {
+    display: none;
+  }
+
+  #mobile-nav-toggle {
+    display: inline;
+  }
+
+  #about .about-img {
+    height: auto;
+  }
+
+  #about .about-img img {
+    margin-left: 0;
+    padding-bottom: 30px;
+  }
+  
+  /* .filtros-comercios { */
+    /* border: 4px solid #0722e0; */
+    /* border-radius: 12px; */
+    /* margin-top: 20px; */
+    /* box-sizing: border-box; */
+    /* width: 99%; */
+    /* padding: 15px; */
+    /* flex-wrap: wrap; */
+    /* display: flex; */
+/* } */
+
+/* .text-filtro { */
+    /* width: 85%; */
+	/* height: 35px; */
+    /* display: inline-block; */
+    /* padding-top: 0px; */
+	/* margin-right: 15px; */
+
+/* } */
+
+/* .select-filtro { */
+    /* width: 85%; */
+	/* height: 35px; */
+    /* display: inline-block; */
+    /* padding-top: 0px; */
+
+ /* } */
+ /* .popup { */
+	
+	/* background: #f8f8f8; */
+	/* box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.3); */
+	/* border-radius: 3px; */
+	/* padding: 20px; */
+	/* height: 500px; */
+	/* width: 320px; */
+	/* overflow-y: scroll; */
+	/* margin-left: -160px; */
+/* } */
+
+/* .popup .btn-cerrar-popup { */
+	/* font-size: 16px; */
+	/* line-height: 16px; */
+	/* display: block; */
+	/* text-align: right; */
+	/* color: #BBBBBB; */
+	/* transition: .3s ease all; */
+	
+/* } */
+
+/* .popup .btn-cerrar-popup:hover { */
+	/* color: #000; */
+	
+/* } */
+
+/* .popup h2{ */
+	
+	/* font-size: 20px; */
+    /* color: #0722e0; */
+    /* text-transform: uppercase; */
+    /* font-weight: 700; */
+    /* position: relative; */
+    /* padding-bottom: 0px; */
+/* } */
+}
+
+
+@media (min-width: 769px) {
+	
+	
+	
+  #call-to-action .cta-btn-container {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: end;
+    -webkit-justify-content: flex-end;
+    -ms-flex-pack: end;
+    justify-content: flex-end;
+  }
+  
+  @media (min-width: 768px) {
+  #contact .contact-address,
+  #contact .contact-phone,
+  #contact .contact-email {
+    padding: 20px 0;
+  }
+
+  #contact .contact-phone {
+    border-left: none;
+    border-right: none;
+  }
+  
+}
+  
+  /* .filtros-comercios { */
+    /* border: 4px solid #0722e0; */
+    /* border-radius: 12px; */
+    /* margin-top: 20px; */
+    /* box-sizing: border-box; */
+    /* width: 99%; */
+    /* padding: 15px; */
+    /* flex-wrap: wrap; */
+    /* display: flex; */
+/* } */
+
+/* .text-filtro { */
+    /* width: 85%; */
+	/* height: 35px; */
+    /* display: inline-block; */
+    /* padding-top: 0px; */
+	/* margin-right: 15px; */
+
+/* } */
+
+/* .select-filtro { */
+    /* width: 85%; */
+	/* height: 35px; */
+    /* display: inline-block; */
+    /* padding-top: 0px; */
+
+/* } */
+
+/* .popup { */
+	
+	/* background: #f8f8f8; */
+	/* box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.3); */
+	/* border-radius: 3px; */
+	/* padding: 20px; */
+	/* height: 500px; */
+	/* width: 320px; */
+	/* overflow-y: scroll; */
+	/* margin-left: -160px; */
+/* } */
+
+/* .popup .btn-cerrar-popup { */
+	/* font-size: 16px; */
+	/* line-height: 16px; */
+	/* display: block; */
+	/* text-align: right; */
+	/* color: #BBBBBB; */
+	/* transition: .3s ease all; */
+	
+/* } */
+
+/* .popup .btn-cerrar-popup:hover { */
+	/* color: #000; */
+	
+/* } */
+
+/* .popup h2{ */
+	
+	/* font-size: 20px; */
+    /* color: #0722e0; */
+    /* text-transform: uppercase; */
+    /* font-weight: 700; */
+    /* position: relative; */
+    /* padding-bottom: 0px; */
+/* } */
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
